@@ -1,9 +1,9 @@
-# Spring Boot Microservices Course
+# Spring Boot Microservices 
 
 
 
 
-We will build a BookStore application using Spring Boot, Spring Cloud, and Docker.
+Building  a BookStore application using Spring Boot, Spring Cloud, and Docker.
 
 ![BookStore Microservices Architecture](docs/bookstore-spring-microservices.png)
 
