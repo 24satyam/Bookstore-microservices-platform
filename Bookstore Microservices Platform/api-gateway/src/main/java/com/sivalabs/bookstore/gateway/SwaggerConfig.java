@@ -22,6 +22,7 @@ class SwaggerConfig {
         this.swaggerUiConfigProperties = swaggerUiConfigProperties;
     }
 
+    //add swagger url first
     @PostConstruct
     public void init() {
         List<RouteDefinition> definitions =
